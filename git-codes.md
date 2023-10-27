@@ -282,7 +282,7 @@ console.log("Hola, mundo!");
 // Más código aquí
 ```
 
-## 21. `git reverse`
+## 21. `git rebase`
 
 Se utiliza para combinar una rama con otra, generalmente para integrar cambios de una rama en otra. A diferencia de `git merge`, que crea un nuevo commit de fusión, `git rebase` reescribe el historial del proyecto.
 
